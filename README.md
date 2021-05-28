@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dawoodemmanuel
-- 👀 I’m interested in web development, mobile app development & image processing
+- 👀 I’m interested in web development, mobile app development & Databases
 - 🌱 I’m currently learning Dart & Flutter
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at dawoodemmanuel75@gmail.com
 
 <!---
